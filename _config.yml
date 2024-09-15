@@ -20,15 +20,52 @@
 
 title: Associazione IlClassico Musica e Arte
 email: info@ilclassico.it
+author: borsattoz
+
+copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+
 description: >- # this means to ignore newlines until "baseurl:"
   Scuola di Musica a Milano dal 1989
+
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.ilclassico.it" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+favicon: "/assets/images/logo.png"
+
+yat:
+  date_format: "%d %b %Y"
+
+header_transparent: true
+
+# content_width: "920px"
+
+google_analytics: ""
+enableDNT: "false"
+
+sitemap: true
+
+lang: "it"
+
+theme_color: "#9eaec2"
+brand_color: "#000"
+
+night_mode: "off"
+# night_mode: "auto"
+
+defaults:
+  home:
+    heading: "Associazione IlClassico Musica e Arte"
+    subheading: "Scuola di Musica a Milano dal 1989"
+    banner: "/assets/images/banners/home.jpeg"
+
+banner:
+  # opacity: 0.7
 
 # Build settings
-remote_theme: "jeffreytse/jekyll-theme-yat"
+markdown: kramdown
+kramdown:
+  input: GFM
+
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
   - jekyll-sitemap
