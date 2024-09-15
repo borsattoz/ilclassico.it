@@ -27,8 +27,9 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   Scuola di Musica a Milano dal 1989
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.ilclassico.it" # the base hostname & protocol for your site, e.g. http://example.com
+domain: borsattoz.github.io
+url: "https://borsattoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/www.ilclassico.it" # the subpath of your site, e.g. /blog
 favicon: "/assets/images/logo.png"
 
 yat:
