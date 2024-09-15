@@ -55,7 +55,7 @@ defaults:
   home:
     heading: "Associazione IlClassico Musica e Arte"
     subheading: "Scuola di Musica a Milano dal 1989"
-    banner: "/assets/images/banners/home.jpeg"
+    banner: "/assets/images/banners/home.webp"
 
 banner:
   # opacity: 0.7
