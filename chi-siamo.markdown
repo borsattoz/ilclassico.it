@@ -2,6 +2,7 @@
 layout: default
 title: "Chi Siamo"
 order: 1
+permalink: ':basename/'
 ---
 
 # Chi Siamo

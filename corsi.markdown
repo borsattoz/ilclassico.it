@@ -2,6 +2,7 @@
 layout: default
 title: "Corsi"
 order: 2
+permalink: ':basename/'
 ---
 
 # Corsi

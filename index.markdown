@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+order: 0
 ---
 
 Bacon ipsum dolor amet brisket pork chop pork loin capicola, corned beef ham kevin chicken short ribs porchetta meatball rump fatback salami leberkas. Beef ribs tail alcatra spare ribs, shank boudin pork belly. Andouille boudin jerky cupim pancetta prosciutto pastrami. Turducken pancetta sirloin, meatball kevin cow bresaola ham hock. Andouille spare ribs rump corned beef pancetta landjaeger chuck beef ribs, turducken kielbasa cow. Chislic boudin chicken tri-tip pork loin pork belly t-bone landjaeger, kevin corned beef swine cupim capicola porchetta buffalo. Picanha tri-tip alcatra ball tip, spare ribs beef ribs flank.
