@@ -15,7 +15,7 @@
   <div class="wrapper">
     <div class="site-header-inner">
       {%- assign default_paths = site.pages | sort: 'order' | where: "dir", "/" | map: "path" -%}
-      {%- assign page_paths = site.header_pages | default: default_paths | where_exp: "p", "p != 'index.html'" -%}
+      {%- assign page_paths = site.header_pages | default: default_paths | where_exp: "p", "p != 'index.markdown'" -%}
 
       <span class="site-brand">
         {%- include views/site-brand.html -%}
