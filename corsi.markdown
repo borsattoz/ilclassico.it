@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Corsi"
-order: 2
-permalink: ':basename/'
+order: 3
+permalink: ':path/:basename/'
 ---
 
 # Corsi
