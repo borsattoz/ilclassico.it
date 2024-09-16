@@ -22,14 +22,14 @@ title: Associazione IlClassico Musica e Arte
 email: info@ilclassico.it
 author: borsattoz
 
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: 'Unpublished Work (cleft) 2017-{currentYear} <a href="https://github.com/borsattoz">{author}</a>'
 
 description: >- # this means to ignore newlines until "baseurl:"
   Scuola di Musica a Milano dal 1989
 
 domain: borsattoz.github.io
-url: "https://borsattoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/www.ilclassico.it" # the subpath of your site, e.g. /blog
+url: "https://borsattoz.github.io"
+baseurl: "/www.ilclassico.it"
 logo: "/assets/images/logo.png"
 favicon_root: "/assets/favicon"
 
@@ -37,8 +37,6 @@ yat:
   date_format: "%d %b %Y"
 
 header_transparent: true
-
-# content_width: "920px"
 
 google_analytics: ""
 enableDNT: "false"
@@ -51,7 +49,6 @@ theme_color: "#9eaec2"
 brand_color: "#000"
 
 night_mode: "off"
-# night_mode: "auto"
 
 defaults:
   home:
