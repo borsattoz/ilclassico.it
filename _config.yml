@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Associazione IlClassico Musica e Arte
+title: Associazione IlClassico Musica e Arte APS
 email: info@ilclassico.it
 author: borsattoz
 
@@ -52,7 +52,7 @@ night_mode: "off"
 
 defaults:
   home:
-    heading: "Associazione IlClassico Musica e Arte"
+    heading: "Associazione IlClassico Musica e Arte APS"
     subheading: "Scuola di Musica a Milano dal 1989"
     banner:
       image: "/assets/images/banners/home.webp"
