@@ -3,6 +3,7 @@ layout: home
 title: Home
 order: 0
 permalink: '/'
+sidebar: []
 ---
 
 La Scuola di Musica *Il*Classico Musica e Arte è stata fondata nel 1989 con l'obiettivo di offrire un metodo d'insegnamento che favorisca lo sviluppo armonico e la crescita musicale di chiunque desideri avvicinarsi alla musica.
