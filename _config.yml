@@ -56,7 +56,7 @@ defaults:
     subheading: "Scuola di Musica a Milano dal 1989"
     banner:
       image: "/assets/images/banners/home.webp"
-      opacity: 0.4
+      opacity: 0.5
       background: "rgb(0, 0, 0)"
 
 # Build settings
