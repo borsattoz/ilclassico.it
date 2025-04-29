@@ -2,7 +2,7 @@
 layout: default
 title: "Insegnanti"
 order: 3
-permalink: ':path/:basename/'
+permalink: ':path/'
 ---
 
 # Insegnanti
