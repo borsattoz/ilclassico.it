@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Insegnanti"
-order: 2
+order: 3
 permalink: ':path/:basename/'
 ---
 
