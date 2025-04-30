@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Contatti"
+menu: true
 order: 5
 permalink: ':path/'
 ---
