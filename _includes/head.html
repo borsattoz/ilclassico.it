@@ -28,4 +28,16 @@
   {%- endif -%}
   {%- include extensions/photo-swipe.html -%}
   {%- include custom-head.html -%}
+
+  {% if page.custom_css %}
+    {% for css_resource in page.custom_css %}
+    <link rel="stylesheet" href="{{ css_resource }}" />
+    {% endfor %}
+  {% endif %}
+
+  {% if page.custom_js %}
+    {% for js_resource in page.custom_js %}
+    <script src="{{ js_resource }}"></script>
+    {% endfor %} 
+  {% endif %}
 </head>

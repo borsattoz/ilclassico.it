@@ -4,7 +4,25 @@ title: "Contatti"
 menu: true
 order: 5
 permalink: ':path/'
+custom_css:
+- 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'
+custom_js:
+- 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
 ---
 
 # Contatti e orari
-Bacon ipsum dolor amet picanha strip steak buffalo, spare ribs beef ribs rump turkey pork chop ball tip. Chicken frankfurter flank drumstick bacon. Prosciutto andouille kevin short loin, landjaeger pancetta cow. Ribeye tail burgdoggen, prosciutto doner beef cupim tongue shank strip steak biltong. Turducken strip steak pancetta t-bone leberkas flank spare ribs ham hock shank picanha turkey cupim jerky. Flank picanha salami burgdoggen chislic. Tenderloin andouille flank pig brisket ham landjaeger chuck tail boudin fatback swine pork chop shankle.
+<style scoped>
+#map { height: 180px; }
+</style>
+<div id="map"></div>
+
+<script>
+var map = L.map('map').setView([51.505, -0.09], 13);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+var marker = L.marker([51.5, -0.09]).addTo(map);
+</script>
