@@ -7,6 +7,11 @@ permalink: ':path/'
 ---
 
 # La Nostra Storia
+
+![Bambino con uno spartito in mano]({{ '/assets/images/bambino_spartito.jpg' | relative_url }})
+
+*Il*Classico nasce nel 1989 dalla passione condivisa per la didattica da parte di musicisti che ancora oggi collaborano [TODO].
+
 Non solo scuola di musica...
 
 Nel corso della sua lunga e ricca storia, *Il*Classico ha dato vita a numerosi progetti e iniziative che vanno oltre l'insegnamento musicale.
