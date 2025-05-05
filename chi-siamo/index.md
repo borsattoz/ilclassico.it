@@ -2,7 +2,7 @@
 layout: default
 title: "La Nostra Storia"
 menu: true
-order: 1
+order: 3
 permalink: ':path/'
 ---
 

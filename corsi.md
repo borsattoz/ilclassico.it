@@ -2,7 +2,7 @@
 layout: default
 title: "Corsi"
 menu: true
-order: 2
+order: 1
 permalink: ':path/:basename/'
 ---
 
