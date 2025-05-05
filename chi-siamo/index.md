@@ -6,7 +6,7 @@ order: 3
 permalink: ':path/'
 ---
 
-# La Nostra Storia
+# La nostra storia
 
 ![Bambino con uno spartito in mano]({{ '/assets/images/bambino_spartito.webp' | relative_url }})
 
