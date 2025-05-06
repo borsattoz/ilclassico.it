@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Kina Karaca"
+title: "Khna Karaca"
 permalink: ':path/:basename/'
 ---
 
-# Kina Karaca
+# Khna Karaca
