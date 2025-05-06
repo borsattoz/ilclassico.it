@@ -4,12 +4,6 @@ email:
   title: 'Contattaci via email'
   fa-icon: 'fa-solid fa-square-envelope'
 
-rss:
-  id: ''                        # Leave this property empty
-  href: '/www.ilclassico.it/feed.xml'
-  title: 'Iscriviti al nostro feed RSS'
-  fa-icon: 'fa-solid fa-square-rss'
-
 instagram:
   id: 'ilclassico_musica_e_arte'
   href: 'https://www.instagram.com/'
