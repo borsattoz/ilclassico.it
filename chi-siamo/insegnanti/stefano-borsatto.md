@@ -5,6 +5,8 @@ permalink: ':path/:basename'
 ---
 
 # Stefano Borsatto
+[TODO]
+
 Nato a Milano nel 1994, ha conseguito i diplomi di Pianoforte con lode (2010, Conservatorio G. Verdi di Como, Prof.ssa Khna Karaca), Organo con lode e menzione (2015, Conservatorio G. Cantelli di Novara, M° Giancarlo Bardelli) e Tecnologia Audio con il massimo dei voti (2017, Scuola Civica di Musica C. Abbado di Milano). È laureato in Informatica con lode (2021, Università del Piemonte Orientale, I livello).
 
 È stato premiato in numerosi concorsi, fra cui primo premio assoluto ai concorsi internazionali “Lago di Monate” e “Fortini” di Bologna.

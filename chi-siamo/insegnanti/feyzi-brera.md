@@ -5,6 +5,8 @@ permalink: ':path/:basename/'
 ---
 
 # Feyzi Brera
+[TODO]
+
 Nato da una famiglia di musicisti, inizia a quattro anni lo studio della musica e del violino seguendo il metodo Suzuki, successivamente si iscrive alla Scuola Civica di Milano nella classe del M. Carlo de Martini e poi presso il Conservatorio della stessa città dove si diploma nel 2003 col massimo dei voti sotto la guida del M. Cinzia Barbagelata.
 
 Ha successivamente partecipato a corsi di perfezionamento e masterclass con Marija Jokanovic, Ana Maria Sirbu, Giulio Franzetti, Giuliano Carmignola. Parallelamente agli studi tradizionali di conservatorio sviluppa un interesse per la musica a 360 gradi che lo porta ad ascoltare e praticare svariati generi e ad imparare da autodidatta a suonare la chitarra e il basso.
