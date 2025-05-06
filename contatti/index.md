@@ -11,18 +11,40 @@ custom_js:
 ---
 
 # Contatti e orari
+Associazione *Il*Classico Musica e Arte APS
+
+via Giuseppe Meda 45, Milano, 20141
+
+**Tel**: <a href="tel:+39028438027">02 8438027</a>
+
+**Mail**: info [at] ilclassico.it
+
+## Orari scuola
+I corsi individuali di strumento si svolgono dal **lunedì** al **sabato** dalle **9:00** alle **20:00**. I corsi collettivi si svolgono al **pomeriggio** in giorni prestabiliti.
+
+## Orari segreteria
+**lunedì** - **giovedì** dalle **15:00** alle **19:00**
+
+## Come raggiungerci
+**Metro**: M2 Romolo
+
+**Autobus**: Linee 90/91, 95
+
+**Tram**: Linee 3, 15
+
 <style scoped>
-#map { height: 180px; }
+#map { height: 350px; }
 </style>
 <div id="map"></div>
 
 <script>
-var map = L.map('map').setView([51.505, -0.09], 13);
+const geocoord = [45.440109505103635, 9.178731722793597];
+let map = L.map('map').setView(geocoord, 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
-var marker = L.marker([51.5, -0.09]).addTo(map);
+let marker = L.marker(geocoord).addTo(map);
 </script>
