@@ -20,13 +20,13 @@ via Giuseppe Meda 45, Milano, 20141
 **Mail**: info [at] ilclassico.it
 
 ## Orari scuola
-I corsi individuali di strumento si svolgono dal **lunedì** al **sabato** dalle **9:00** alle **20:00**. I corsi collettivi si svolgono al **pomeriggio** in giorni prestabiliti.
+I corsi individuali di strumento si svolgono dal **lunedì** al **sabato** dalle **9:00** alle **21:00**. I corsi collettivi si svolgono al **pomeriggio** in giorni prestabiliti.
 
 ## Orari segreteria
 **lunedì** - **giovedì** dalle **15:00** alle **19:00**
 
 ## Come raggiungerci
-**Metro**: M2 Romolo
+**Metro**: M2 Romolo / Famagosta
 
 **Autobus**: Linee 90/91, 95
 
