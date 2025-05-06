@@ -17,7 +17,7 @@ Si dedica alla composizione sia in ambito didattico che artistico: scrive ed ela
 
 Ha sempre svolto attività didattica presso Scuole Civiche di Musica, Istituti Musicali e Scuole private, tenendo abitualmente laboratori di canto corale nelle scuole elementari.
 
-Attualmente è docente di Pianoforte e Teoria presso “IlClassico Scuola di Musica” di Milano, prepara e dirige il Coro di Voci Bianche presso il Centro Musicale Suzuki di Milano ed è docente di ruolo di Educazione Musicale presso le Scuole Secondarie di I grado.
+Attualmente è docente di Pianoforte e Teoria presso *Il*Classico, prepara e dirige il Coro di Voci Bianche presso il Centro Musicale Suzuki di Milano ed è docente di ruolo di Educazione Musicale presso le Scuole Secondarie di I grado.
 
 Disegnatrice per diletto, collabora come illustratrice con riviste e teatri.
 
