@@ -21,6 +21,7 @@ Il Coro Akses è stato attivo per diversi anni sotto la direzione del maestro Da
 Il coro ha avuto anche l'opportunità di collaborare con numerose realtà musicali, fra cui:
 - [I Piccoli Pomeriggi Musicali](https://www.ipomeriggi.it/accademia-di-formazione-i-piccoli-pomeriggi-musicali-banner/){:target="_blank"}
 - [Orchestra dei giovani della Civica Scuola di Musica Claudio Abbado](https://musica.fondazionemilano.eu/progetti/orchestre-e-gruppi-stabili/orchestra-dei-giovani){:target="_blank"}
+- [Teatro Sociale di Como](https://teatrosocialecomo.it/){:target="_blank"}
 - [Divertimento Ensemble](https://www.divertimentoensemble.it/){:target="_blank"}
 - [TODO]
 
