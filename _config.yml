@@ -50,6 +50,13 @@ brand_color: "#000"
 
 night_mode: "off"
 
+header_pages:
+  - corsi.md
+  - chi-siamo/insegnanti/index.md
+  - chi-siamo/index.md
+  - contatti/sede.md
+  - contatti/index.md
+
 defaults:
   home:
     heading: "Associazione IlClassico Musica e Arte APS"

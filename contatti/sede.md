@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Sede"
-menu: true
-order: 4
 permalink: ':path/:basename/'
 ---
 

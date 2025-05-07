@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Contatti"
-menu: true
-order: 5
 permalink: ':path/'
 custom_css:
 - 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'

@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Insegnanti"
-menu: true
-order: 2
 permalink: ':path/'
 ---
 
