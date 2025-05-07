@@ -13,8 +13,6 @@ permalink: ':path/:basename/'
 
 Dopo la chiusura della Fonit Cetra nel 1998, gli edifici di via Giuseppe Meda 45 sono stati riqualificati e trasformati in un complesso residenziale e di uffici. Oggi ospitano appartamenti moderni e spazi di coworking, mantenendo alcuni elementi architettonici originali che testimoniano il loro passato industriale e culturale.
 
-[TODO]
-
 ## La Voce del Padrone
 Fondata nel 1931, La Voce del Padrone è stata una casa discografica italiana tra le più celebri del Novecento, rinomata soprattutto per le sue incisioni di musica classica e operistica. La sua sede milanese è diventata un punto di riferimento per la musica di qualità, vantando collaborazioni con artisti di fama mondiale.
 

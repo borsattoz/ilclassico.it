@@ -7,9 +7,9 @@ permalink: ':path/:basename/'
 ---
 
 # Corsi
-## Corsi individuali di strumento
-![arpa con mano]({{ '/assets/images/arpa_con_mano.webp' | relative_url }})
+![Arpa con mano]({{ '/assets/images/arpa_con_mano.webp' | relative_url }})
 
+## Corsi individuali di strumento
 Ogni corso prevede la definizione di un percorso personalizzato per ciascun allievo, calibrato in base all’età e alle sue aspirazioni.
 
 La scuola offre l’opportunità di svolgere una lezione di prova, per consentire una scelta consapevole dello strumento.
@@ -23,9 +23,9 @@ La scuola offre l’opportunità di svolgere una lezione di prova, per consentir
 - Chitarra classica
 - Clarinetto
 
-## Corsi collettivi
 [TODO]
 
+## Corsi collettivi
 ### Prima musica
 *0-3 anni*
 
@@ -46,7 +46,7 @@ Il corso di Coro contribuisce in modo significativo allo sviluppo della memoria 
 
 La pratica del coro è inoltre fortemente consigliata a chi studia uno strumento, poiché favorisce lo sviluppo dell'orecchio musicale, la gestione della respirazione e il controllo del suono, migliorando complessivamente le capacità espressive e musicali.
 
-## Incontro musicale
 [TODO]
 
+## Incontro musicale
 L'anno scolastico è suddiviso in due quadrimestri. Al termine di ogni quadrimestre si tiene l’Incontro musicale, un appuntamento che non va inteso semplicemente come un’esibizione, ma come un prezioso momento formativo. Fin dall’inizio del percorso musicale, infatti, l’Incontro musicale educa all’ascolto di sé e degli altri, offrendo l’opportunità di mettersi in gioco e di affrontare, insieme, gli aspetti emotivi e tecnici legati alla performance davanti a un piccolo pubblico.

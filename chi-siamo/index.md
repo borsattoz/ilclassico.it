@@ -15,6 +15,8 @@ Non solo scuola di musica...
 
 Nel corso della sua lunga e ricca storia, *Il*Classico ha dato vita a numerosi progetti e iniziative che vanno oltre l'insegnamento musicale.
 
+[TODO]
+
 ## Coro Akses
 Il Coro Akses è stato attivo per diversi anni sotto la direzione del maestro Dario Grandini. Ha partecipato a importanti concorsi, vincendo prestigiosi premi, tra cui il Premio Civica e il Premio Alto Treviso.
 
