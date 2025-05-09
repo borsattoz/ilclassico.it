@@ -15,6 +15,6 @@ Ha collaborato come pianista per l’Orchestra Sinfonica G. Verdi di Milano, i P
 
 Ha inciso al pianoforte musiche di scena di N. Rota per la Decca ed è stato assistente musicale in regia per la registrazione di musiche di G. Marinuzzi, musiche da film e cantate di J. S. Bach.
 
-Insegna presso *Il*Classico dal 2015.
+Insegna pianoforte e armonia presso l'Associazione *Il*Classico Musica e Arte dal 2015.
 
 È IT Specialist presso l'Università del Piemonte Orientale. 
