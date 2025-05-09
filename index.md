@@ -24,5 +24,5 @@ Tale metodo privilegia la formazione dell'orecchio, della memoria musicale e del
 ![Violini dell'orchestra della scuola]({{ '/assets/images/ilclassico_orchestra_violini.webp' | relative_url }})
 
 ## Esperienza sul campo
-Già a partire dai primi anni di studio, gli allievi vengono guidati a confrontarsi con la realtà musicale al di fuori della scuola, attraverso eventi realizzati in collaborazione con numerose realtà locali e più ampia provenienza. Sia come solisti che in formazioni cameristiche e orchestrali, gli studenti hanno così l'opportunità di maturare esperienze significative e sviluppare competenze preziose per il proprio percorso umano e artistico.
+Già a partire dai primi anni di studio, gli allievi vengono guidati a confrontarsi con la realtà musicale al di fuori della scuola, attraverso eventi realizzati in collaborazione con numerose realtà locali e di più ampia provenienza. Sia come solisti che in formazioni cameristiche e orchestrali, gli studenti hanno così l'opportunità di maturare esperienze significative e sviluppare competenze preziose per il proprio percorso umano e artistico.
 
