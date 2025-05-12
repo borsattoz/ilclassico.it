@@ -7,22 +7,10 @@ permalink: ':path/'
 # La nostra storia
 ![Bambino con uno spartito in mano]({{ '/assets/images/bambino_spartito.webp' | relative_url }})
 
-*Il*Classico nasce nel 1989 dalla passione condivisa per la didattica da parte di musicisti che ancora oggi collaborano [TODO].
+*Il*Classico Musica e Arte è nato nel 1989 a Milano come progetto educativo indipendente, con l’obiettivo di offrire un approccio diverso all’insegnamento musicale: più attento alle persone, alla creatività, e al percorso di crescita di ciascuno. Da allora la scuola è cresciuta mantenendo saldo lo spirito iniziale, e nel 2004 è diventata un’associazione culturale aperta al territorio. Dal 2024 è iscritta al Registro Unico del Terzo Settore come associazione di promozione sociale.
 
-Non solo scuola di musica...
+Negli anni abbiamo affiancato all’attività didattica in sede numerose iniziative culturali, artistiche e sociali, molte delle quali hanno coinvolto bambini e ragazzi in esperienze fuori dalla scuola. Il nostro Coro Akses, attivo dal 2006, ha cantato in importanti teatri lombardi (Teatro Arcimboldi, Teatro Dal Verme, Teatro Sociale di Como, Teatro Grande di Brescia, Teatro Fraschini di Pavia) collaborando con maestri e orchestre di livello nazionale. Ha partecipato anche a produzioni liriche, concorsi e gemellaggi internazionali, come quello con il Berliner Kinderchor a Berlino.
 
-Nel corso della sua lunga e ricca storia, *Il*Classico ha dato vita a numerosi progetti e iniziative che vanno oltre l'insegnamento musicale.
+La scuola ha portato per anni laboratori musicali e corali nelle scuole pubbliche di Zona 5 a Milano, in collaborazione con insegnanti e dirigenti, e ha partecipato a progetti promossi dal Comune di Milano. Con il ciclo di concerti Anteprima, abbiamo aperto le porte della nostra sede al pubblico con esibizioni gratuite che alternano giovani musicisti e professionisti. Organizziamo anche campus estivi in cui la musica si unisce alla vita di gruppo, all’autonomia e alla scoperta di sé.
 
-[TODO]
-
-## Coro Akses
-Il Coro Akses è stato attivo per diversi anni sotto la direzione del maestro Dario Grandini. Ha partecipato a importanti concorsi, vincendo prestigiosi premi, tra cui il Premio Civica e il Premio Alto Treviso.
-
-Il coro ha avuto anche l'opportunità di collaborare con numerose realtà musicali, fra cui:
-- [I Piccoli Pomeriggi Musicali](https://www.ipomeriggi.it/accademia-di-formazione-i-piccoli-pomeriggi-musicali-banner/){:target="_blank"}
-- [Orchestra dei giovani della Civica Scuola di Musica Claudio Abbado](https://musica.fondazionemilano.eu/progetti/orchestre-e-gruppi-stabili/orchestra-dei-giovani){:target="_blank"}
-- [Teatro Sociale di Como](https://teatrosocialecomo.it/){:target="_blank"}
-- [Divertimento Ensemble](https://www.divertimentoensemble.it/){:target="_blank"}
-- [TODO]
-
-[TODO]
+Abbiamo partecipato a rassegne teatrali, festival musicali e progetti didattici con enti come il Divertimento Ensemble, l’Accademia di Belle Arti di Brera e la Civica Scuola di Musica Claudio Abbado. Alcuni progetti hanno unito musica, arte e narrazione, come i laboratori sulle favole di Leonardo da Vinci o gli spettacoli di musica-teatro pensati e messi in scena con i nostri allievi.
