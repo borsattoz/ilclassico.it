@@ -5,6 +5,7 @@ permalink: ':path/:basename/'
 ---
 
 # Carlo De Martini
+## Violino, Viola, Ensemble
 ![Carlo De Martini]({{ 'assets/images/carlo_de_martini.webp' | relative_url }})
 
 Figlio di immigrati pugliesi in Lombardia poco dopo la Resistenza, ha iniziato a diciassette anni la sua avventura musicale negli Stormy Six (1973-78), si è diplomato in violino e ha insegnato per i successivi 43 anni alla Civica Scuola di musica di Milano, oggi intitolata a Claudio Abbado, dove ha creato l’orchestra da camera Il Quartettone (1987-2010) e l’Orchestra dei Giovani (1991).

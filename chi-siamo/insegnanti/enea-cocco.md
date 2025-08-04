@@ -5,6 +5,7 @@ permalink: ':path/:basename/'
 ---
 
 # Enea Cocco
+## Pianoforte, Teoria e Solfeggio, Clarinetto
 ![Enea Cocco]({{ 'assets/images/enea_cocco.webp' | relative_url }})
 
 Nato a Milano nel 2002, inizia lo studio del pianoforte all'età di 7 anni presso l'Associazione "*Il*Classico Musica e Arte" sotto la guida del M° Khna Karaca. Nel 2016 tiene il primo recital da solista. Nel 2018, nel 2019, nel 2023 e nel 2024 partecipa al festival "Pianocity Milano". Dopo la maturità scientifica frequenta il triennio accademico alla "Scuola Civica Claudio Abbado" dapprima con il M° Paolo Gilardi e successivamente con il M° Victoria Terekiev, conseguendo il diploma di Triennio accademico di Primo Livello con la valutazione di 110 con lode e menzione d’onore.
