@@ -27,7 +27,7 @@ copyright: 'Copyright (cright) 2017-{currentYear} <a href="https://github.com/bo
 description: >- # this means to ignore newlines until "baseurl:"
   Scuola di Musica a Milano dal 1989
 
-domain: borsattoz.github.io
+domain: ilclassico.it
 url: "https://ilclassico.it"
 baseurl: ""
 logo: "/assets/images/logo.png"
