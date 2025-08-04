@@ -21,8 +21,6 @@ La scuola offre l’opportunità di svolgere una lezione di prova, per consentir
 - Chitarra classica
 - Clarinetto
 
-[TODO content]
-
 ## Corsi collettivi
 ### Prima musica
 *0-3 anni*
@@ -34,8 +32,8 @@ In questo corso il bambino è guidato a sviluppare, attraverso il movimento libe
 
 Nei corsi dedicati alla prima infanzia, svolti in piccoli gruppi, l'attenzione è rivolta in particolare allo sviluppo delle capacità di ascolto attraverso il movimento e alle attività musicali collettive. Il programma comprende canto, educazione ritmica, introduzione all'ascolto, pre-scrittura musicale, espressione grafica libera e guidata ed esercizi preparatori allo studio degli strumenti.
 
-### Educazione audiopercettiva
-Il corso di Educazione audiopercettiva è finalizzato a sviluppare l'ascolto guidato della musica attraverso l'analisi del discorso musicale. Favorisce, inoltre, il consolidamento del senso del ritmo e l'interiorizzazione degli intervalli.
+### Educazione Audiopercettiva
+Il corso di Educazione Audiopercettiva è finalizzato a sviluppare l'ascolto guidato della musica attraverso l'analisi del discorso musicale. Favorisce, inoltre, il consolidamento del senso del ritmo e l'interiorizzazione degli intervalli.
 
 ### Coro
 *5-12 anni*
@@ -44,7 +42,8 @@ Il corso di Coro contribuisce in modo significativo allo sviluppo della memoria 
 
 La pratica del coro è inoltre fortemente consigliata a chi studia uno strumento, poiché favorisce lo sviluppo dell'orecchio musicale, la gestione della respirazione e il controllo del suono, migliorando complessivamente le capacità espressive e musicali.
 
-[TODO content]
+### Ensemble
+Parallelamente allo studio individuale di uno strumento, il corso di Ensemble aiuta a sviluppare l'abilità di collaborare in gruppo. Grazie all'ascolto reciproco e al confronto, ogni musicista acquisisce una maggiore consapevolezza del proprio ruolo all'interno di un contesto musicale.
 
 ## Incontro musicale
 L'anno scolastico è suddiviso in due quadrimestri. Al termine di ogni quadrimestre si tiene l’Incontro musicale, un appuntamento che non va inteso semplicemente come un’esibizione, ma come un prezioso momento formativo. Fin dall’inizio del percorso musicale, infatti, l’Incontro musicale educa all’ascolto di sé e degli altri, offrendo l’opportunità di mettersi in gioco e di affrontare, insieme, gli aspetti emotivi e tecnici legati alla performance davanti a un piccolo pubblico.
