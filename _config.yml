@@ -22,7 +22,7 @@ title: Associazione IlClassico Musica e Arte APS
 email: info@ilclassico.it
 author: borsattoz
 
-copyright: 'Copyright (cright) 2017-{currentYear} <a href="https://github.com/borsattoz">{author}</a>'
+copyright: 'Copyright © {currentYear} <a href="https://github.com/borsattoz">{author}</a>'
 
 description: >- # this means to ignore newlines until "baseurl:"
   Scuola di Musica a Milano dal 1989
