@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: borsattoz.github.io
 url: "https://borsattoz.github.io"
-baseurl: "/www.ilclassico.it"
+baseurl: "/ilclassico.it"
 logo: "/assets/images/logo.png"
 favicon_root: "/assets/favicon"
 
