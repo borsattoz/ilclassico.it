@@ -7,7 +7,7 @@ permalink: ':path/:basename/'
 # Laura Arcari
 *Chitarra*
 
-![Laura Arcari]({{ '/assets/images/laura_arcari.webp' | relative_url }})
+![Laura Arcari]({{ '/assets/images/laura_arcari.webp' | relative_url }}){: class="my-wrap-text" }
 
 Nata a Milano nel 1991, intraprende gli studi chitarristici nel 2002 frequentando la Scuola media ad indirizzo musicale sotto la guida del M° Giuliana Ferrieri.
 

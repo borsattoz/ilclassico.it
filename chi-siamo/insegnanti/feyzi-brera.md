@@ -7,7 +7,7 @@ permalink: ':path/:basename/'
 # Feyzi Brera
 *Violino, Ensemble*
 
-![Feyzi Brera]({{ 'assets/images/feyzi_brera.webp' | relative_url }})
+![Feyzi Brera]({{ 'assets/images/feyzi_brera.webp' | relative_url }}){: class="my-wrap-text" }
 
 Nato da una famiglia di musicisti, inizia a quattro anni lo studio della musica e del violino seguendo il metodo Suzuki, successivamente si iscrive alla Scuola Civica di Milano nella classe del M. Carlo de Martini e poi presso il Conservatorio della stessa città dove si diploma nel 2003 col massimo dei voti sotto la guida del M. Cinzia Barbagelata.
 
