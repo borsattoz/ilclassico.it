@@ -6,6 +6,7 @@ permalink: ':path/:basename'
 
 # Kerem Brera
 *Violoncello, Ensemble*
+
 ![Kerem Brera]({{ '/assets/images/kerem_brera.webp' | relative_url }})
 
 Kerem Brera nasce a Milano da una famiglia di musicisti. Si diploma al Conservatorio di Milano nella classe del Maestro Marco Scano nel 2003, sotto la cui guida ottiene anche la Laurea di secondo livello nel 2006 con il massimo dei voti. Si perfeziona a Lugano nella classe del Maestro Robert Cohen, dove ottiene due Master. Partecipa a diversi corsi e masterclass con musicisti fra cui Thomas Demenga, Alain Meunier, Karina Georgian e Bruno Giuranna.

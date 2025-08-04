@@ -6,6 +6,7 @@ permalink: ':path/:basename/'
 
 # Chiara Granata
 *Arpa, Storia della Musica*
+
 ![Chiara Granata]({{ '/assets/images/chiara_granata.webp' | relative_url }})
 
 Specializzata nell’esecuzione della musica antica su arpe storiche, suona in particolare copie di strumenti cinque e seicenteschi, ed arpe originali del periodo classico e romantico.

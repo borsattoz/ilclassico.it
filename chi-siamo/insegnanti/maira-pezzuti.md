@@ -6,6 +6,7 @@ permalink: ':path/:basename/'
 
 # Maira Pezzuti
 *Educazione Audiopercettiva*
+
 ![Maira Pezzuti]({{ 'assets/images/maira_pezzuti.webp' | relative_url }})
 
 Maira Pezzuti è una musicista con una solida formazione accademica e un percorso artistico articolato tra Italia e Brasile. Ha conseguito il diploma di violino presso il Conservatorio “F. A. Bonporti” di Trento nel 2010, dopo aver frequentato  l’Università di Musica “Santa Marcelina” in Brasile nel 2006. Successivamente si è specializzata in performance presso l’Accademia di Musica di Pinerolo, approfondendo il proprio percorso musicale anche attraverso corsi di perfezionamento e masterclass con docenti di rilievo internazionale, tra cui Boris Belkin, Salvatore Accardo, Daniel Hope e Marco Fornaciari.
