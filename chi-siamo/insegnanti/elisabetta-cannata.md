@@ -5,7 +5,7 @@ permalink: ':path/:basename/'
 ---
 
 # Elisabetta Cannata
-[TODO pic]
+![Elisabetta Cannata]({{ 'assets/images/elisabetta_cannata.webp' | relative_url }})
 
 Dopo il diploma in violoncello presso il Conservatorio di Milano, sua città natia, ha seguito corsi di perfezionamento in violoncello (M. Boris Pergamenschikow, M. Marianne Chen), quartetto (M. Franco Rossi) e musica da camera (M. Robert Lehrbaumer). Nel 2008 ha conseguito a pieni voti la laurea (biennio specialistico di II livello) in Musica da Camera presso il conservatorio “G. Verdi” di Como.
 
