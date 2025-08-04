@@ -5,7 +5,7 @@ permalink: ':path/:basename/'
 ---
 
 # Laura Lobetti Bodoni
-[TODO pic]
+![Laura Lobetti Bodoni]({{ 'assets/images/laura_lobetti_bodoni.webp' | relative_url }})
 
 Diplomata in Pianoforte e Clavicembalo rispettivamente ai Conservatori di Genova e Milano, ha conseguito il perfezionamento in Duo Pianistico presso la Civica Scuola di Milano e intrapreso gli studi di Composizione fino al compimento medio tradizionale presso il Conservatorio di Como, conseguito con il massimo dei voti.
 
