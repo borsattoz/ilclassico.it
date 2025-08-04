@@ -5,7 +5,7 @@ permalink: ':path/:basename/'
 ---
 
 # Khna Karaca
-## Pianoforte
+*Pianoforte*
 ![Khna Karaca]({{ '/assets/images/khna_karaca.webp' | relative_url }})
 
 Nata a Istanbul, inizia a suonare pianoforte all'età di 4 anni. Dopo il Conservatorio di Istanbul, dove studia con il M° F. Statzer, si trasferisce a Salisburgo, dove si diploma con lode alla Hochschule Mozarteum sia in pianoforte che in Didattica del pianoforte, sotto la guida del M° K. Neumüller. Prosegue la sua formazione laureandosi in Musicologia presso l'Università di Salisburgo. A Vienna frequenta le masterclass di Paul Badura-Skoda e di Alfred Brendel. A Milano si perfeziona con Alberto Mozzati e segue i corsi di musica antica, clavicembalo, fortepiano e clavicordo con Emilia Fadini.
