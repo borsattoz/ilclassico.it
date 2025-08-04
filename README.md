@@ -1,4 +1,4 @@
-# ilclassico.it
+# www.ilclassico.it
 
 Questo repository contiene il codice sorgente per il sito ufficiale dell'Associazione *Il*Classico Musica e Arte APS.
 
@@ -16,8 +16,8 @@ Poi esegui i seguenti comandi:
 
 ```bash
 # Clona il repository
-git clone https://github.com/borsattoz/ilclassico.it.git
-cd ilclassico.it
+git clone https://github.com/borsattoz/www.ilclassico.it.git
+cd www.ilclassico.it
 
 # Installa le dipendenze Ruby
 bundle install
