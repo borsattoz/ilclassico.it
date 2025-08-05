@@ -1,0 +1,58 @@
+<style>
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+body { font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 14px; font-display: swap; line-height: 1.6; color: #1d1d1f; background-color: #fff; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+img { max-width: 100%; vertical-align: middle; }
+ul, ol { margin-left: 30px; }
+h1, h2, h3, h4, h5, h6 { font-weight: 600; }
+a { color: #000; text-decoration: none; }
+blockquote { color: #777; border-left: 4px solid #dddddd; padding-left: 15px; font-size: 15.75px; letter-spacing: -1px; font-style: italic; }
+blockquote > :last-child { margin-bottom: 0; }
+.wrapper { max-width: 920px; margin: auto; padding-right: 30px; padding-left: 30px; }
+.wrapper:after { content: ""; display: table; clear: both; }
+.framework { display: flex; }
+.page-content, .framework .main { flex: 1; min-width: 0; /* <-- fix flexbox width with pre tags  */ }
+html[data-header-transparent] header.site-header { position: fixed; }
+.site-header { background-color: #9eaec2; height: 63.84px; width: 100%; transition: height 0.2s, text-shadow 0.2s, top 0.2s; box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.06); position: sticky; position: -moz-sticky; /* <-- fix sticky compatibility issue */ position: -ms-sticky; position: -o-sticky; position: -webkit-sticky; align-self: flex-start; /* <-- fix the sticky not work issue */ transform: scale(0.9999); /* <-- fix the sticky x overflow issue */ top: 0; z-index: 1000; }
+.site-header > .wrapper { margin: 0 60px; padding: 0; max-width: 100%; transition: 0.2s margin; }
+@media screen and (max-width: 1024px) { .site-header > .wrapper { margin: 0 20px; max-width: unset; } }
+.site-header a { text-decoration: none; }
+.site-header .site-header-inner { position: relative; }
+.site-brand { line-height: 63.84px; margin-right: 50px; }
+.site-brand .site-brand-inner { font-size: 15.75px; font-weight: 400; letter-spacing: -1px; transition: 0.1s filter color; }
+.site-brand .site-brand-inner, .site-brand .site-brand-inner:visited { color: #e4ffa7; }
+.site-brand .site-brand-inner .site-logo { display: inline-block; height: 42.56px; margin-right: 5px; }
+.site-nav { font-size: 15.75px; line-height: 63.84px; position: absolute; right: 0; top: 0; }
+.site-nav .nav-trigger { display: none; }
+.site-nav .menu-icon { display: none; }
+@media screen and (max-width: 800px) { .site-nav { position: absolute; top: 0; text-align: left; }
+  .site-nav label[for="nav-trigger"] { display: block; z-index: 2; cursor: pointer; }
+  .site-nav .menu-icon { display: block; float: right; text-align: center; }
+  .site-nav .menu-icon > svg { fill: rgba(228, 255, 167, 0.8); transition: 0.1s fill; }
+  .site-nav input ~ .trigger { clear: both; display: none; border-radius: 3px; box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.06); }
+.site-footer { font-size: 14px; color: #e4ffa7; background-color: #8ea1b8; text-align: left; transition: background-color 0.2s; }
+.site-footer .site-footer-inner { transition: border-top 0.2s; padding: 54px 0; }
+.site-footer .site-footer-inner .social-media { font-size: 32px; letter-spacing: 4px; }
+.site-footer a { color: #000; }
+.page-content { /* <-- Keep footer on the bottom */ -ms-flex: none; /* <-- Fix IE footer issue */ padding: 60px 0; padding-top: 72px; }
+.page-banner { display: block; position: relative; height: 640px; background-color: rgba(0, 0, 0, 0.8); transition: height 0.2s; }
+.page-banner .page-banner-img { position: absolute; width: 100%; height: 100%; overflow: hidden; }
+.page-banner .page-banner-img > *:first-child { height: 100%; max-width: 1000%; background-size: cover; background-position: center center; overflow: hidden; transition: 0.1s all ease-in-out; }
+.page-banner .page-banner-img > img.img-placeholder { display: none; }
+.page-banner .wrapper { height: 100%; }
+.page-banner .page-banner-inner { position: relative; top: 50%; transform: translateY(-50%); color: #fdfdfd; padding: 10px 5px; text-shadow: 1px 1px 2px #33333355; }
+.page-banner .page-banner-inner > *:first-child { margin: 0; }
+.page-banner .page-banner-inner > *:first-child > :nth-child(1) { font-size: 54.6px; letter-spacing: -1px; margin-bottom: 0.1em; font-weight: normal; transition: 0.2s all; }
+@media screen and (max-width: 600px) { .page-banner .page-banner-inner > *:first-child > :nth-child(1) { font-size: 27.65px; } }
+.page-banner .page-banner-inner > *:first-child > :nth-child(2) { font-weight: lighter; margin-bottom: 0.8em; transition: 0.2s all; }
+@media screen and (max-width: 600px) { .page-banner .page-banner-inner > *:first-child > :nth-child(2) { font-size: 16.45px; } }
+.page-banner .page-banner-inner > *:first-child > :last-child { margin-bottom: 0; }
+@media screen and (max-width: 600px) { .page-banner { height: 426.6666666667px; } }
+.framework .sidebar { padding-left: 8px; transition: top 0.2s, display 0.2s; position: sticky; position: -moz-sticky; /* <-- fix sticky compatibility issue */ position: -ms-sticky; position: -o-sticky; position: -webkit-sticky; align-self: flex-start; /* <-- fix the sticky not work issue */ transform: scale(0.9999); /* <-- fix the sticky x overflow issue */ top: 83.84px; }
+@media screen and (max-width: 800px) { .framework .sidebar { display: none; } }
+.click-to-top { transition: 0.3s; display: flex; align-items: center; justify-content: center; position: fixed; width: 64px; height: 64px; border-radius: 32px; right: 60px; bottom: 48px; background: white; cursor: pointer; opacity: 0; transform: translateY(10px); box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15); font-size: 24px; user-select: none; }
+@media screen and (max-width: 1024px) { .click-to-top { width: 48px; height: 48px; border-radius: 24px; right: 35px; font-size: 20px; } }
+@media screen and (max-width: 600px) { .click-to-top { width: 36px; height: 36px; border-radius: 18px; right: 20px; font-size: 16px; } }
+.click-to-top.show { opacity: 1; transform: translateY(0); }
+</style>
